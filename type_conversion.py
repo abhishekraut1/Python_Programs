@@ -1,0 +1,7 @@
+i = input("Enter i: ")
+b = 1 + int(i)
+c = "ib" + str(i)
+d = 8 + float(i)
+print(b)
+print(c)
+print(d)
